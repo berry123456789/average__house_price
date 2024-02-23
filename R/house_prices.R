@@ -1,8 +1,6 @@
 # Load necessary packages
 library(dplyr)
 
-#get it in github
-
 #' Calculate the average house Price in Belfast
 #'
 #' This function calculates the average house Price in Belfast
