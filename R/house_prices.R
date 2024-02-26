@@ -1,5 +1,6 @@
 # Load necessary packages
 library(dplyr)
+library(magrittr)
 
 #' Calculate the average house Price in Belfast
 #'
